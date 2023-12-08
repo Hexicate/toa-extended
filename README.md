@@ -1,4 +1,4 @@
-Toa Extended
+Toa Extended: 
 A plugin for Tombs of Amascut with extended features.
 
 Designed primarily for solo runs.
